@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to reach out:
 
 - **Author**: Abdul Qadeer  
-- **Email**: abdul.qadeer@example.com  
-- **LinkedIn**: [Abdul Qadeer](https://linkedin.com/in/abdulqadeer)
+- **Email**: itsabdulqadeer.55@gmail.com  
+- **LinkedIn**: [Abdul Qadeer](https://www.linkedin.com/in/abdulqadeer99/)
 
 ---
 
